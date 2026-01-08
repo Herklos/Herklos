@@ -1,16 +1,20 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Herklos/Herklos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🐙 Herklos
 
-Here are some ideas to get you started:
+**Building the future of crypto trading automation**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![OctoBot](https://img.shields.io/badge/OctoBot-5.1k%20⭐-blue?style=flat-square)](https://github.com/Drakkar-Software/OctoBot)
+[![Open Source](https://img.shields.io/badge/Open%20Source-❤️-red?style=flat-square)](https://github.com/Drakkar-Software)
+
+</div>
+
+---
+
+Building and maintaining **[OctoBot](https://github.com/Drakkar-Software/OctoBot)** — a free, open-source crypto trading bot that automates AI, Grid, DCA, and TradingView strategies across **15+ exchanges**.
+
+<div align="center">
+
+[🌐 OctoBot Cloud](https://www.octobot.cloud)
+
+</div>
