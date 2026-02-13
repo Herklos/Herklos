@@ -2,7 +2,7 @@
 
 # 🐙 Herklos
 
-**Building the future of crypto trading automation**
+**Building the future of crypto investment automation**
 
 [![OctoBot](https://img.shields.io/badge/OctoBot-5.1k%20⭐-blue?style=flat-square)](https://github.com/Drakkar-Software/OctoBot)
 [![Open Source](https://img.shields.io/badge/Open%20Source-❤️-red?style=flat-square)](https://github.com/Drakkar-Software)
