@@ -14,6 +14,7 @@
 Building and maintaining:
 - **[OctoBot](https://github.com/Drakkar-Software/OctoBot)** — a free, open-source crypto trading bot that automates AI, Grid, DCA, and TradingView strategies across **15+ exchanges**.
 - **[Starfish](https://github.com/Drakkar-Software/Starfish)** — About Pull/push document sync with conflict detection, e2e encryption, and role-based access control.
+  - **[Fiancé](https://github.com/Drakkar-Software/Fiance)** — Privacy-first, offline-first wedding planning app.
 
 Resources
 
